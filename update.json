@@ -1,7 +1,7 @@
 {
   "ios": {
-    "minimum_build": 1800,
-    "latest_build": 1901,
+    "minimum_build": 1900,
+    "latest_build": 1905,
     "store_url": "itms-apps://itunes.apple.com/app/id6465033213"
   }
 }
